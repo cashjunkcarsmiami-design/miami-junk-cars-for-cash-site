@@ -1,3 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/
+Disallow: /wp-login.php
+Disallow: /comments/feed/
 Sitemap: https://miamijunkcarsforcash.com/sitemap.xml
