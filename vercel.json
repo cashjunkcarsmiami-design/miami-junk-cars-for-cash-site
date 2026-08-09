@@ -17,6 +17,7 @@
     {"source": "/2026/:month/:day", "destination": "/", "permanent": true},
 
     {"source": "/junk-cars-for-cash-miami", "destination": "/", "permanent": true},
+    {"source": "/what-to-do-with-a-car-that-no-longer-works-a-practical-guide-to-selling-your-junk-car-in-miami", "destination": "/", "permanent": true},
     {"source": "/cash-for-junk-cars", "destination": "/", "permanent": true},
     {"source": "/junk-cars-in-miami", "destination": "/", "permanent": true},
     {"source": "/how-the-junk-cars-for-cash-process-works", "destination": "/", "permanent": true},
@@ -63,6 +64,7 @@
     {"source": "/transfer-car-title-florida-guide", "destination": "/sell-junk-car-no-title-miami", "permanent": true},
 
     {"source": "/que-pasa-placas-carro-rastro-florida", "destination": "/vender-carros-para-yonke", "permanent": true},
+    {"source": "/vender-carro-chatarra-sin-llaves-miami", "destination": "/vender-carros-para-yonke", "permanent": true},
     {"source": "/evitar-estafas-vender-carro-chocado", "destination": "/vender-carros-para-yonke", "permanent": true},
     {"source": "/cancelar-registracion-carro-chatarra-florida", "destination": "/vender-carros-para-yonke", "permanent": true},
     {"source": "/compran-carros-chocados-perdida-total", "destination": "/vender-carros-para-yonke", "permanent": true},
