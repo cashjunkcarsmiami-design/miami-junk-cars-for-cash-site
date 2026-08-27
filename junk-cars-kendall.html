@@ -67,8 +67,11 @@
         <h2>Get Kendall Offer</h2>
         <label>Name <input name="First Name" required></label>
         <label>Phone <input name="Phone" type="tel" inputmode="tel" required></label>
-        <label>Vehicle <input name="Vehicle"></label>
-        <label>Condition <input name="Condition"></label>
+        <label>Make <input name="Make" placeholder="Example: Toyota" required></label>
+        <label>Model <input name="Model" placeholder="Example: Camry" required></label>
+        <label>Year <input name="Year" type="number" inputmode="numeric" min="1900" max="2027" placeholder="Example: 2012" required></label>
+        <label>Vehicle Damage <textarea name="Vehicle Damage" rows="3" placeholder="Describe the damage or mechanical problems" required></textarea></label>
+        <label>Vehicle Location <input name="Vehicle Location" placeholder="Kendall area or ZIP code" required></label>
         <button type="submit">Request Quote</button>
       </form>
     </section>
