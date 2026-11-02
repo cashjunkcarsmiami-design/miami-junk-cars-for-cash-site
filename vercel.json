@@ -11,6 +11,9 @@
     }
   ],
   "redirects": [
+    {"source":"/prepare-junk-car-for-towing-miami","destination":"/how-to-prepare-junk-car-for-pickup-miami","permanent":true},
+    {"source":"/cuanto-pagan-carro-yonke-miami","destination":"/how-much-is-junk-car-worth-miami","permanent":true},
+    {"source":"/what-happens-junk-car-after-sell","destination":"/junk-car-recycling-parts-reuse-scrap-metal-miami","permanent":true},
     {"source": "/blog", "destination": "/", "permanent": true},
     {"source": "/__trashed", "destination": "/", "permanent": true},
     {"source": "/2025/:month/:day", "destination": "/", "permanent": true},
