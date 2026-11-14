@@ -11,10 +11,17 @@
     }
   ],
   "redirects": [
+    {"source":"/reparar-vs-vender-auto-yonke","destination":"/vender-carros-para-yonke","permanent":true},
+    {"source":"/que-hacer-auto-chocado-perdida-total","destination":"/vender-carros-para-yonke","permanent":true},
+    {"source":"/most-valuable-parts-junk-car","destination":"/junk-car-recycling-parts-reuse-scrap-metal-miami","permanent":true},
+    {"source":"/removing-radio-junk-car-value","destination":"/conservar-accesorios-antes-vender-carro-rastro","permanent":true},
+    {"source":"/junk-car-scams-south-florida","destination":"/avoid-junk-car-offer-changes-miami","permanent":true},
+    {"source":"/compramos-carros-inundados-miami-tormentas","destination":"/vender-carros-para-yonke","permanent":true},
+    {"source":"/documentos-vender-carro-usado-florida","destination":"/sell-junk-car-no-title-miami","permanent":true},
     {"source":"/prepare-junk-car-for-towing-miami","destination":"/how-to-prepare-junk-car-for-pickup-miami","permanent":true},
     {"source":"/cuanto-pagan-carro-yonke-miami","destination":"/how-much-is-junk-car-worth-miami","permanent":true},
     {"source":"/what-happens-junk-car-after-sell","destination":"/junk-car-recycling-parts-reuse-scrap-metal-miami","permanent":true},
-    {"source": "/blog", "destination": "/", "permanent": true},
+    {"source": "/blog", "destination": "/seller-guides", "permanent": true},
     {"source": "/__trashed", "destination": "/", "permanent": true},
     {"source": "/2025/:month/:day", "destination": "/", "permanent": true},
     {"source": "/2026/:month/:day", "destination": "/", "permanent": true},
